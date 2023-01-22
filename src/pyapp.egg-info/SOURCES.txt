@@ -1,0 +1,13 @@
+LICENSE
+pyproject.toml
+setup.cfg
+setup.py
+src/pyapp/__init__.py
+src/pyapp/main.py
+src/pyapp/py.typed
+src/pyapp.egg-info/PKG-INFO
+src/pyapp.egg-info/SOURCES.txt
+src/pyapp.egg-info/dependency_links.txt
+src/pyapp.egg-info/not-zip-safe
+src/pyapp.egg-info/requires.txt
+src/pyapp.egg-info/top_level.txt
